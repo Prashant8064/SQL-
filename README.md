@@ -1,68 +1,67 @@
-# ✈️ Airline Reservation System – SQL Project
+# 🗃️ SQL Notes, Certifications & Project Portfolio
+**Owner:** Prashant8064  
 
-This project is a simple and structured Airline Reservation System built using **MySQL**. It simulates basic flight booking features including flight listings, passenger records, and reservation tracking using relational database concepts.
+## 📁 Overview
+This repository contains a complete set of SQL learning resources, practice queries, and certification proofs. It includes:
 
----
+- Structured learning notes on SQL and MySQL
+- Practice-based query files
+- Real-world mini-project
+- Verified certifications from reputed platforms
 
-## 📁 Project Structure
-
-| File Name                     | Description                                     |
-|------------------------------|-------------------------------------------------|
-| `queries.sql`                | Main SQL file containing table creation, data insertion & queries |
-| `SQL CODE FILE.pdf`          | SQL code examples and practice queries (PDF)   |
-| `SQL OR MY SQL NOTES.pdf`    | Personal notes on SQL/MySQL queries and theory |
-| `sql_basic certificate.pdf`  | Certification proof for basic SQL              |
-| `sql_intermediate certificate.pdf` | Certification proof for intermediate level SQL |
-| `sql_advanced certificate.pdf` | Certification proof for advanced SQL            |
+These materials showcase proficiency in SQL from basic to advanced level, with hands-on project application.
 
 ---
 
-## 🧱 Database Tables
+## 🧾 Table of Contents
 
-- **flights**: Stores flight details like flight number, airline, route, timing, seats, and pricing.
-- **passengers**: Stores passenger personal details and login credentials.
-- **reservations**: Tracks flight bookings with status and payment info.
-
-### ⚙️ Tech Used:
-- MySQL (tested on OneCompiler & phpMyAdmin)
-- SQL DDL & DML queries
-- Foreign Keys, ENUMs, Constraints
+### ✅ SQL Notes
+| File Name                 | Description |
+|--------------------------|-------------|
+| **SQL OR MY SQL NOTES.pdf** | Detailed notes covering SQL syntax, MySQL-specific queries, joins, subqueries, aggregate functions, and database design concepts. Ideal for learners aiming to master relational databases. |
+| **SQL CODE FILE.pdf**       | A collection of practical SQL queries and example code snippets for revision and hands-on practice. |
 
 ---
 
-## 📝 Features
-
-- Add/View Flights  
-- Register Passengers  
-- Book a Flight (with seat/class selection)  
-- Track Reservation with payment & cancellation status  
-- Well-normalized relational design
-
----
-
-## 🚀 How to Run
-
-1. Open [OneCompiler – MySQL](https://onecompiler.com/mysql) OR use phpMyAdmin/XAMPP
-2. Paste contents from `queries.sql`
-3. Hit `Run` to execute
-4. View data using `SELECT` queries
+### 🏅 Certifications
+| File Name                     | Description |
+|------------------------------|-------------|
+| **sql_basic certificate.pdf**        | Certificate of completion for SQL Basics course. |
+| **sql_intermediate certificate.pdf** | Certificate of completion for Intermediate SQL concepts. |
+| **sql_advanced certificate (1).pdf** | Verified certificate for Advanced SQL proficiency. |
 
 ---
 
-## 📜 Certificates
-
-Included PDF files verify the author’s learning path in SQL (Basic, Intermediate, Advanced).
-
----
-
-## 🙋‍♂️ Author
-
-**Prashant8064**  
-🟢 SQL Enthusiast | 📊 Data & DBMS Learner  
-📅 Created: May 2025
+### 📁 Projects & Practice Queries
+| File Name       | Description |
+|------------------|-------------|
+| **queries.sql**  | SQL script for an Airline Reservation System — includes schema creation, table relationships, insertions, and common operational queries like bookings, cancellations, and customer searches. |
 
 ---
 
-## 📌 License
+## 🛠 Skills Demonstrated
+- SQL Query Writing  
+- Relational Database Design  
+- Data Filtering, Aggregation, Sorting  
+- Subqueries, Joins, Views  
+- Use of DDL, DML, DCL  
+- MySQL-specific syntax and operations  
+- Project-based query building
 
-This project is open-source and can be used for learning or academic submission. Credit is appreciated.
+---
+
+## 🔖 Usage Guide
+These resources can be used for:
+
+- Learning and practicing SQL/MySQL  
+- Reference during interviews or coding rounds  
+- Demonstrating project-based database handling  
+- Preparing for certifications and online SQL tests
+
+---
+
+## 📌 Contact  
+For queries, collaboration, or mentorship:  
+**Name:** Prashant8064  
+**Email:** *[Add your professional email here]*  
+
