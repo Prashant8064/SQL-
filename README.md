@@ -1,4 +1,4 @@
-# 🗃️ SQL Notes, Certifications & Project Portfolio
+# 🗃️ SQL Notes, Lab , Certifications & Project P
 **Owner:** Prashant8064  
 
 ## 📁 Overview
@@ -63,5 +63,5 @@ These resources can be used for:
 ## 📌 Contact  
 For queries, collaboration, or mentorship:  
 **Name:** Prashant8064  
-**Email:** *[Add your professional email here]*  
+**Email:** *prashantgupta8064@gmail.com*  
 
